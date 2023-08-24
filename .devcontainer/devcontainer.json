@@ -31,7 +31,7 @@
     },
     "PAYPAL_API_BASE": {
       "description": "Sandbox PayPal API base url of the application.",
-      "documentationUrl": "https://api.sandbox.paypal.com/"
+      "documentationUrl": "https://developer.paypal.com/api/rest/requests/"
     }
   },
   "customizations": {
